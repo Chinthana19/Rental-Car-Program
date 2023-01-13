@@ -1,0 +1,21 @@
+total_income:741.35
+available:hehehe,23,0
+available:DD,180,221001
+available:DD,180,0
+available:BB,200,221020
+available:COE 4456,200,221030
+available:DDDD,400,221018
+available:AAA 123,500,221222
+available:BBB,750,221002
+available:CCC,1000,221011
+available:DD,221001,0
+rented:DDD,8000,221015
+rented:CC,150,334455
+rented:EE,110,334455
+repair:AAAA,100,221020
+repair:BBBB,200,221025
+repair:CCCC,300,221023
+repair:EEEE,500,221011
+repair:AAA,130,221010
+repair:AA,200,334455
+repair:EEE,12000,221016
